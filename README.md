@@ -26,7 +26,7 @@ Use linter for HTML & CSS.
 
 ## Authors
 
-👤 **Abdifatah**
+👤 **Abdifatah Yassen**
 
 - GitHub: [@AbdifatahYasin1](https://github.com/AbdifatahYasin1)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/cabdifataax-yaasiin-69977019a/)
