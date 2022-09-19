@@ -48,7 +48,7 @@ Microverse.
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./License) licensed.
 
 
 
