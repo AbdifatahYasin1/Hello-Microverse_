@@ -11,7 +11,10 @@ This project is configuration of linter into html and CSS.
 - Major languages
 HTML and CSS
 
-To get a local copy up and running follow these simple example steps.
+# Getting Started
+ 
+Clone this project
+Open it in your browser.
 
 ### Prerequisites
 You need to have project prerequistes :
@@ -47,6 +50,6 @@ Microverse.
 
 This project is [MIT](./LICENSE) licensed.
 
-=======
-# Hello Microverse
+
+
 
