@@ -11,25 +11,13 @@ This project is configuration of linter into html and CSS.
 - Major languages
 HTML and CSS
 
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+You need to have project prerequistes :
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+HTML & CSS knowledge.
+Use linter for HTML & CSS.
 
 
 
@@ -53,11 +41,12 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-Microverse could be a good idea.
+Microverse.
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./LICENSE) licensed.
+
 =======
-# Hello-Microverse
+# Hello Microverse
 
